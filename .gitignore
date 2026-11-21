@@ -1,0 +1,11 @@
+.env
+.llm_cache/
+__pycache__/
+outputs/_smoke/
+outputs/eval/seed*/
+data/
+# Kuku content / derived outputs - share privately, never in the repo
+outputs/
+docs/
+*.txt
+!requirements.txt
