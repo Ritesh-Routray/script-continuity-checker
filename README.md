@@ -41,3 +41,8 @@ through `OPENAI_BASE_URL`. Responses are cached in `.llm_cache/`, so a rerun cos
 
 **Input format:** one `.txt` file per episode, named `episode-NNN-*.txt`, in the screenplay format
 of the input pack (`**SPEAKER (Emotion):**` followed by `Start: (MM:SS.ss) | End: (MM:SS.ss)`).
+
+## Author
+
+Ritesh Routray (123CR0831, Ceramic Engineering). Built for Kuku FM's AI Generalist assignment, Problem 3.
+The Kuku input scripts are confidential and are not included in this repository.
